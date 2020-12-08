@@ -45,3 +45,26 @@ Simulation / Funktionalität:
 * Isst die Schlange eine Frucht wächst Sie
 * Wurde die Frucht gegessen erscheinen weitere
 * Berührt die Schlange mit dem Kopf den Eigenen Körper stirbt Sie.
+
+### 3.2 Anwendungsfall (UseCases)
+Folgende Anwendungsfälle sind hier detailliert dokumentiert:
+Legende: 
+
+BILD
+
+Akteur User: 
+* Der Benutzer (externer User an Greenfoot-Konsole) öffnet und startet ein Szenario
+* Der Benutzer steuert die Schlange
+* Er kann Sie mit der Pfeiltaste steuern.
+
+Snake: 
+* Zu Beginn wird eine Frucht erzeugt und in der Welt positioniert.
+* Die Schlange bewegt sich konstant 
+* Wenn eine Frucht gegessen wurde wächst die Schlange
+* Geschwindigkeit bleibt gleich.
+* Das Szenario wird dann gestoppt wenn die Schlange mit dem Kopf seinen eigenen Körper berührt.06.12.2020 19:56:00Seite 4 von 6TBZ Technische Berufsschule Zürich
+
+
+
+
+
