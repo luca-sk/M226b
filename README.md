@@ -62,8 +62,16 @@ Snake:
 * Die Schlange bewegt sich konstant 
 * Wenn eine Frucht gegessen wurde wächst die Schlange
 * Geschwindigkeit bleibt gleich.
-* Das Szenario wird dann gestoppt wenn die Schlange mit dem Kopf seinen eigenen Körper berührt.06.12.2020 19:56:00Seite 4 von 6TBZ Technische Berufsschule Zürich
+* Das Szenario wird dann gestoppt wenn die Schlange mit dem Kopf seinen eigenen Körper berührt.
 
+
+### 3.3 Ablauf
+| Klasse | Team |
+| ------------- | ------------- |
+| Spiel vorbereiten | Die Welt mit einer Frucht wird geniert und Schlange wird an einem zufälligen Ort gespawnt. | 
+| Spiel starten | Die Schlange fängt sich an zu bewegen, sobald man eine Pfeiltaste betätigt  |
+| Spiel spielen | Die Schlange sammelt Früchte und wächst. |
+| Spielende | Die Schlange berührt mit dem eigenen Kopf den Körper. |
 
 
 
