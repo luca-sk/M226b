@@ -32,7 +32,7 @@ Anhand der Analyse wurde folgendes Lösungsdesign entworfen:
 ### 3.1 Funktionsmodell
 Im Folgenden sind die erwarteten Eingaben und Ausgaben beschrieben / dargestellt:
 
-BILD
+![Funktionsmodell](/IMG/Funktionsmodell.png)
 
 Legende: 
 * Eingabe: Benutzer startet das Spiel per Mausklick auf Run
@@ -50,7 +50,7 @@ Simulation / Funktionalität:
 Folgende Anwendungsfälle sind hier detailliert dokumentiert:
 Legende: 
 
-BILD
+![UseCase](/IMG/UseCase.png)
 
 Akteur User: 
 * Der Benutzer (externer User an Greenfoot-Konsole) öffnet und startet ein Szenario
