@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Counter
+comment0.text=\r\n\ Counter\ Klasse\:\ Z\u00E4hler\ an\ den\ oberen\ Ecken\r\n\ \r\n\ @Luca\ Kiefer\r\n\ @V3\ -\ 09.01.2021\r\n
+comment1.params=
+comment1.target=Counter()
+comment1.text=\r\n\ Konstrukutor\ f\u00FCr\ Player\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Counter\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ score()
+comment3.text=\r\n\ Score\ Bild\r\n\ \r\n
+comment4.params=
+comment4.target=void\ addScore()
+comment4.text=\r\n\ Score\ +\ 1\ \r\n\ wird\ in\ Player\ ausgef\u00FChrt\r\n\ \r\n
+comment5.params=
+comment5.target=void\ youWin()
+comment5.text=\r\n\ wenn\ Punktstand\ 10\ dann\ wird\ Klasse\ YouWin\ in\ die\ mitte\ gezeigt\r\n\ und\ Greenfoot\ wird\ gestoppt\r\n
+numComments=6

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\r\n\ Player\ Klasse\:\ die\ 2\ Schlangen\r\n\ \r\n\ @Luca\ Kiefer\r\n\ @V3\ -\ 09.01.2021\r\n
+comment1.params=player\ r\ g\ b
+comment1.target=Player(int,\ int,\ int,\ int)
+comment1.text=\r\n\ Konstrukutor\ f\u00FCr\ Player\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Player\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ moveAround()
+comment3.text=\r\n\ Bewegung\ der\ 2\ Schlagen\r\n\ \r\n\ 0\ \=\ Blaue\ Schlange\r\n\ 4\ \=\ Gr\u00FCne\ Schlange\r\n\ \r\n
+comment4.params=
+comment4.target=void\ eatFood()
+comment4.text=\r\n\ \ Geht\ zu\ blueCounter\ &\ greenCounter\ von\ MyWorld\ und\ f\u00FChrt\ addScore\ aus\ wenn\ Player\ Food\ ber\u00FChrt\r\n\ \r\n
+numComments=5
