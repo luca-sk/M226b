@@ -66,13 +66,51 @@ Snake:
 
 
 ### 3.3 Ablauf
-| Klasse | Team |
+| - | - |
 | ------------- | ------------- |
 | Spiel vorbereiten | Die Welt mit einer Frucht wird geniert und Schlange wird an einem zufälligen Ort gespawnt. | 
 | Spiel starten | Die Schlange fängt sich an zu bewegen, sobald man eine Pfeiltaste betätigt  |
 | Spiel spielen | Die Schlange sammelt Früchte und wächst. |
 | Spielende | Die Schlange berührt mit dem eigenen Kopf den Körper. |
 
+
+### 4 Testvorschriften
+
+Siehe hier LINK
+
+### 5 Systemdokumentaton
+
+Luca Kiefer: LINK
+Haris Chandrakumar: LINK
+
+
+### 5.1	Statisches Design: Klassendiagramm
+
+
+### 5.2	Umfang / Abgrenzung / Änderungen gegenüber Design
+
+##### Luca Kiefer
+
+| Anpassungen | Umstände |
+| ------------- | ------------- |
+| Schlange wurde mit Pixel und nicht mit Bild umgesetzt | zu schwierig |
+| 2 verschieden Player | mehr Umfang & spielspass |
+
+
+
+### 5.3	Funktionalität der Implementation.
+
+Wurde sehr ausführlich Inline Dokumentiert
+
+### 5.4 Dynamische Struktur: Sequenzdiagramm
+
+### 6 Bedinungsanleitung
+
+README.TXT LINK
+
+### 6 Testprotokoll
+
+LINK
 
 
 
