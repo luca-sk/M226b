@@ -85,6 +85,7 @@ Haris Chandrakumar: LINK
 
 
 ### 5.1	Statisches Design: Klassendiagramm
+![UML](/IMG/SnakeGame_UML.jpg)
 
 
 ### 5.2	Umfang / Abgrenzung / Änderungen gegenüber Design
